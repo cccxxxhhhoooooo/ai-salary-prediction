@@ -6,3 +6,5 @@ xgboost
 shap
 matplotlib
 joblib
+plotly
+warnings 
